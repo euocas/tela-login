@@ -35,7 +35,8 @@ Durante o desenvolvimento, foi utilizado o **GitHub Copilot integrado ao VS Code
 
 ## 📸 Preview
 
-> (Adicione aqui um print da tela do projeto)
+<img width="1906" height="903" alt="image" src="https://github.com/user-attachments/assets/74bf9855-13ef-4c8c-b23d-95862baa18c2" />
+
 
 ## 📚 Aprendizados
 
